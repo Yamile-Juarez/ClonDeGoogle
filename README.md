@@ -19,14 +19,14 @@ Contiene las siguientes secciones:
 * **Main:** Seccion del contenedor paralos elementos de la pagina:logo,barra de busqeda y botones.
 * **Footer:** Seccion quue incluye enlaces externos al final de la pagina.
 Las tecnologias que utilce son:
-<img src""/>
-<img src""/>
+<img src"https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white"/>
+<img src"https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white"/>
 
 ## Objetivo del proyecto
 Aprender a utilizar las etiquetas estandar de HTML5 Y CSS3.
 
 ## Link a Demo
-Aqui puedes ver mi proyecto terminado: [Clonacion de Google](#)
+Aqui puedes ver mi proyecto terminado: [Clonacion de Google](https://clondegoogle-topaz.vercel.app/)
 
 
 
